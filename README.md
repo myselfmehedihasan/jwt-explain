@@ -141,7 +141,7 @@ MIT - do whatever you want with this!
 
 ## 🙌 Credits
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Mehedi Hasan](https://github.com/myselfmehedihasan)
 
 Built with React, Tailwind CSS, and lots of coffee ☕
 
@@ -149,4 +149,4 @@ Built with React, Tailwind CSS, and lots of coffee ☕
 
 **⭐ If this helped you understand JWT, give it a star!**
 
-*Questions? Open an issue or DM me on [Twitter](https://twitter.com/yourhandle)*
+*Questions? Open an issue or DM me on [Twitter](https://twitter.com/myselftanjil)*
